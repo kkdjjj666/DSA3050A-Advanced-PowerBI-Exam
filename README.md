@@ -226,13 +226,8 @@ To maintain reproducibility and professional documentation, a representative sam
 
 ### OneDrive Access Link
 
-[https://usiu-my.sharepoint.com/:u:/g/personal/vtasi_usiu_ac_ke/IQBUNEusiwIdRYarXmeVnqj2AU9-mgr3nh-r3jDdtmTuJ5k?e=5uFu5M]
+https://usiu-my.sharepoint.com/:u:/g/personal/vtasi_usiu_ac_ke/IQBUNEusiwIdRYarXmeVnqj2AU9-mgr3nh-r3jDdtmTuJ5k?e=5uFu5M
 
-Please ensure the OneDrive link is set to:
-
-**Anyone with the link can view**
-
-This allows the lecturer to access the complete project materials without permission issues.
 
 ## GitHub Repository Structure
 
