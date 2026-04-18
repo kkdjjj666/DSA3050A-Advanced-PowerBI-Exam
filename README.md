@@ -216,6 +216,23 @@ Several practical challenges were encountered:
 These were resolved through structured modelling and optimization.
 
 ---
+## Additional Files
+
+Due to GitHub file size limitations, the complete Power BI `.pbix` file and the full transactional dataset containing approximately 660,000 rows could not be uploaded directly to GitHub.
+
+The full project development was completed using the complete dataset and the full Power BI report file.
+
+To maintain reproducibility and professional documentation, a representative sample dataset (`stocks_sample.csv`) has been included in this repository, while the complete `.pbix` file and full dataset are available via OneDrive.
+
+### OneDrive Access Link
+
+[https://usiu-my.sharepoint.com/:u:/g/personal/vtasi_usiu_ac_ke/IQBUNEusiwIdRYarXmeVnqj2AU9-mgr3nh-r3jDdtmTuJ5k?e=5uFu5M]
+
+Please ensure the OneDrive link is set to:
+
+**Anyone with the link can view**
+
+This allows the lecturer to access the complete project materials without permission issues.
 
 ## GitHub Repository Structure
 
