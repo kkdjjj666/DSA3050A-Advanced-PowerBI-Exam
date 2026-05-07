@@ -1,10 +1,5 @@
-# DSA 3050A Advanced Power BI Examination
-
-## Student Information
-
-**Name:** Van Tasi  
-**Student ID:** 666756  
-**Course:** DSA 3050A – Business Intelligence & Data Visualization  
+# Advanced Power BI
+  
 
 ---
 
